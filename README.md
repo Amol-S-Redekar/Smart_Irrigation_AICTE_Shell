@@ -4,7 +4,6 @@
 
 **Internship Program:** AI/ML Internship – *Edunet Foundation*
 **Project Title:** Smart Irrigation Automation Using Machine Learning
-**Intern:** \[Your Name]
 **Duration:** Week 1 & Week 2
 **Platform Used:** Google Colab
 
