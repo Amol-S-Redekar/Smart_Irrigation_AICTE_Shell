@@ -53,8 +53,12 @@ Modern irrigation systems benefit significantly from intelligent automation. Thi
   * `RandomForestClassifier` for classification
   * `MultiOutputClassifier` to handle multiple target variables
   * `train_test_split` and `MinMaxScaler` from `sklearn`
-* ✔️ Prepared initial structure for model training (actual training will be performed in Week 3)
-  
+  * Scale feature values using `MinMaxScaler`
+  * Split the dataset into training and test sets
+  * Train `RandomForestClassifier` using `MultiOutputClassifier`
+  * Evaluate model accuracy using appropriate metrics (accuracy, F1-score, confusion matrix)
+  * Visualize feature importance and model performance
+
 
 ## 🧠 Tools & Libraries Used
 
@@ -64,12 +68,3 @@ Modern irrigation systems benefit significantly from intelligent automation. Thi
   * **Data Handling:** `pandas`, `numpy`
   * **Visualization:** `matplotlib`, `seaborn`
   * **Machine Learning:** `scikit-learn` (Random Forest, MultiOutputClassifier, scaling, train/test split)
-
-
-## 🛠️ Next Steps (Planned for Week 3)
-
-* Scale feature values using `MinMaxScaler`
-* Split the dataset into training and test sets
-* Train `RandomForestClassifier` using `MultiOutputClassifier`
-* Evaluate model accuracy using appropriate metrics (accuracy, F1-score, confusion matrix)
-* Visualize feature importance and model performance
