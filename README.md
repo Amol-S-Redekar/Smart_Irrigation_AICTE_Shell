@@ -3,9 +3,9 @@
 ### 📅 Week 1 & Week 2 Progress Report
 
 **Internship Program:** AI/ML Internship – *Edunet Foundation*
-**Project Title:** Smart Irrigation Automation Using Machine Learning
-**Duration:** Week 1 & Week 2
-**Platform Used:** Google Colab
+* **Project Title:** Smart Irrigation Automation Using Machine Learning
+* **Duration:** Week 1 & Week 2
+* **Platform Used:** Google Colab
 
 ## 🔍 Problem Statement
 
